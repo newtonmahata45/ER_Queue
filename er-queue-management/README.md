@@ -26,5 +26,5 @@ It prioritizes patients based on **triage levels** and supports **real-time noti
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/er-queue-management.git
+git clone https://github.com/newtonmahata45/ER_Queue.git
 cd er-queue-management
