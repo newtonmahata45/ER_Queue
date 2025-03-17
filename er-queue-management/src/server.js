@@ -8,7 +8,7 @@ const fastify = Fastify({
     logger: { level: 'info' },
 });
 
-// fastify.options('*', cors());
+
 fastify.register(cors);
 fastify.addHook('onRequest', (req, res, next) => {
     req.log.info({ method: req.method, url: req.url, body: req.body }, 'Incoming request');
