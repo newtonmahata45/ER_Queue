@@ -9,7 +9,7 @@ It prioritizes patients based on **triage levels** and supports **real-time noti
 - 🚑 **Priority Queue** (Sorts patients by triage level & wait time)
 - 🔄 **REST API** (Add, retrieve, treat, discharge patients)
 - 📡 **Real-Time Notifications** (WebSocket alerts for critical patients)
-- ✅ **Middleware** (Logging, validation, error handling)
+- ✅ **Middleware** (Logging, validation)
 
 ---
 
