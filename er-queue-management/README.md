@@ -10,7 +10,6 @@ It prioritizes patients based on **triage levels** and supports **real-time noti
 - 🔄 **REST API** (Add, retrieve, treat, discharge patients)
 - 📡 **Real-Time Notifications** (WebSocket alerts for critical patients)
 - ✅ **Middleware** (Logging, validation, error handling)
-- 🛠 **Unit Tests** (Jest)
 
 ---
 
@@ -18,7 +17,6 @@ It prioritizes patients based on **triage levels** and supports **real-time noti
 - **Node.js** (Runtime)
 - **Fastify** (Framework)
 - **WebSockets** (Real-time notifications)
-- **Jest** (Testing)
 
 ---
 
